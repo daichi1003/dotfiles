@@ -22,6 +22,7 @@ NeoBundle 'scrooloose/nerdtree'
 NeoBundle 'altercation/vim-colors-solarized'
 "" Add Unite.vim
 NeoBundle 'Shougo/unite.vim'
+NeoBundle 'Shougo/neocomplete.vim'
 NeoBundle 'ujihisa/unite-colorscheme'
 
 " Required:
